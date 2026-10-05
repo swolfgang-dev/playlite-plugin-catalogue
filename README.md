@@ -8,6 +8,7 @@ Packages are attached to releases in the individual repositories; this catalogue
 | --- | --- |
 | Steam Metadata | [playlite-plugin-steam-metadata-releases](https://github.com/swolfgang-dev/playlite-plugin-steam-metadata-releases) |
 | IGDB | [playlite-plugin-igdb-releases](https://github.com/swolfgang-dev/playlite-plugin-igdb-releases) |
+| SteamGridDB | [playlite-plugin-steamgriddb-releases](https://github.com/swolfgang-dev/playlite-plugin-steamgriddb-releases) |
 | Lutris Integration | [playlite-plugin-lutris-releases](https://github.com/swolfgang-dev/playlite-plugin-lutris-releases) |
 | Game Archiver | [playlite-plugin-game-archiver-releases](https://github.com/swolfgang-dev/playlite-plugin-game-archiver-releases) |
 | SteamAutoCrack | [playlite-plugin-steamautocrack-releases](https://github.com/swolfgang-dev/playlite-plugin-steamautocrack-releases) |

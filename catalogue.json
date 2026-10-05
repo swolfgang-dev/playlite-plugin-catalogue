@@ -12,6 +12,11 @@
       "repository": "swolfgang-dev/playlite-plugin-igdb-releases"
     },
     {
+      "id": "SteamGridDB",
+      "name": "SteamGridDB",
+      "repository": "swolfgang-dev/playlite-plugin-steamgriddb-releases"
+    },
+    {
       "id": "Lutris",
       "name": "Lutris Integration",
       "repository": "swolfgang-dev/playlite-plugin-lutris-releases"
