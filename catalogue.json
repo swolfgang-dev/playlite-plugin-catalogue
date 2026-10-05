@@ -3,7 +3,7 @@
   "plugins": [
     {
       "id": "Steam",
-      "name": "Steam",
+      "name": "Steam Metadata",
       "repository": "swolfgang-dev/playlite-plugin-steam-releases"
     },
     {
